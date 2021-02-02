@@ -1,0 +1,40 @@
+li {
+    font-size: 20px;
+    padding-left: 50px;
+    color: red;
+}
+.title {
+    color: royalblue;
+}
+#protocolo {
+    color: salmon;
+}
+.subtitle {
+    color: seagreen;
+}
+
+.caja1 {
+    width: 100px;
+    height: 100px;
+    background-color: seagreen;
+}
+
+.caja2 {
+    width: 100px;
+    height: 100px;
+    background-color: sienna;
+}
+
+.caja3 {
+    width: 100px;
+    height: 100px;
+    background-color: steelblue;
+}
+
+#mainbox {
+    border: 5px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: ;
+}
